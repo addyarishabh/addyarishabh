@@ -19,4 +19,4 @@ Skills: Data Science | Statistical Modelling | Data Visualization | Machine Lear
 
 📫 Reach me at: rishabhaddya276@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api.username=addyarishabh&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api.username=addyarishabh&theme=merko)
