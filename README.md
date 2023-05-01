@@ -4,7 +4,9 @@
 #### About:
 
 🔭 I am currently pursuing my Master's Degree in Data Analytics from Maulana Abul Kalam Azad University of Technology.
+
 🔭 I have completed my bachelor's degree in Data Science from Techno India University, West Bengal. 
+
 🔭 I am really passionate about Data Science, Machine Learning, Deep Learning and Natural language Processing.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
