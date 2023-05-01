@@ -18,3 +18,5 @@
 Skills: Data Science | Statistical Modelling | Data Visualization | Machine Learning | Natural Language Processing | Data Structures | Algorithms | DBMS |Python Programming | Excel | MySQL | Power BI | Flask Framework
 
 📫 Reach me at: rishabhaddya276@gmail.com
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icon@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/addyarishabh)
