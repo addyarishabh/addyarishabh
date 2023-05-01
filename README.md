@@ -17,3 +17,4 @@
 
 Skills: Data Science | Statistical Modelling | Data Visualization | Machine Learning | Natural Language Processing | Data Structures | Algorithms | DBMS |Python Programming | Excel | MySQL | Power BI | Flask Framework
 
+📫 Reach me at: rishabhaddya276@gmail.com
