@@ -13,7 +13,7 @@
 
 👯 Worked as a data scientist intern for 2 months with Technocolabs Softwares group. 
 
-🏆 College Topper in my under graduate with CGPA 9.22 from data scinece department of Techno India University, West Bengal.
+🏆 College Topper(Gold Medalist) in my under graduate with CGPA 9.22 from data scinece department of Techno India University, West Bengal.
 
 Skills: Data Science | Statistical Modelling | Data Visualization | Machine Learning | Natural Language Processing | Data Structures | Algorithms | DBMS |Python Programming | Excel | MySQL | Power BI | Flask Framework
 
