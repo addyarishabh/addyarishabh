@@ -13,6 +13,8 @@
 
 👯 Worked as a data scientist intern for 2 months with Technocolabs Softwares group. 
 
+👯 Worked as a Business Data Analyst for 7 months with Empeal Digital Private Limited. 
+
 🏆 College Topper(Gold Medalist) in my under graduate with CGPA 9.22 from data scinece department of Techno India University, West Bengal.
 
 Skills: Data Science | Statistical Modelling | Data Visualization | Machine Learning | Natural Language Processing | Data Structures | Algorithms | DBMS |Python Programming | Excel | MySQL | Power BI | Flask Framework
