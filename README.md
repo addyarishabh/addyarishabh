@@ -3,7 +3,7 @@
 
 #### About:
 
-🔭 I am currently pursuing my Master's Degree in Data Analytics from Maulana Abul Kalam Azad University of Technology.
+🔭 I have completed my Master's Degree in Data Analytics from Maulana Abul Kalam Azad University of Technology.
 
 🔭 I have completed my bachelor's degree in Data Science from Techno India University, West Bengal. 
 
